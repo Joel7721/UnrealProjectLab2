@@ -1504,3 +1504,86 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.01.30-23.35.59:923][262]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
 [2025.01.30-23.36.05:883][801]Cmd: TRANSACTION UNDO
 [2025.01.30-23.36.05:883][801]LogEditorTransaction: Undo Replace component used material
+[2025.01.30-23.40.22:445][697]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2084.818848
+[2025.01.30-23.40.23:446][700]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.30-23.40.23:446][700]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2085.486572, Update Interval: 333.300568
+[2025.01.30-23.46.30:538][801]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2452.909424
+[2025.01.30-23.46.31:539][804]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.30-23.46.31:539][804]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2453.576172, Update Interval: 315.511353
+[2025.01.30-23.52.42:597][917]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2824.968506
+[2025.01.30-23.52.43:597][920]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.30-23.52.43:597][920]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2825.635010, Update Interval: 329.321564
+[2025.01.30-23.58.55:328][ 35]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3197.700439
+[2025.01.30-23.58.56:327][ 38]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.30-23.58.56:328][ 38]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3198.366455, Update Interval: 334.272888
+[2025.01.31-00.05.04:555][928]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3566.924561
+[2025.01.31-00.05.04:666][937]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.31-00.05.04:666][938]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3567.021240, Update Interval: 344.796295
+[2025.01.31-00.07.29:793][170]LogDerivedDataCache: C:/Users/jorda/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.01.31-00.11.41:291][979]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3963.654053
+[2025.01.31-00.11.42:291][982]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.31-00.11.42:291][982]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3964.320557, Update Interval: 312.473511
+[2025.01.31-00.17.41:058][899]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4323.419434
+[2025.01.31-00.17.42:058][902]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.31-00.17.42:058][902]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4324.088379, Update Interval: 311.878418
+[2025.01.31-00.18.28:934][231]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2025.01.31-00.18.30:158][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.01.31-00.18.30:214][312]LogStall: Shutdown...
+[2025.01.31-00.18.30:215][312]LogStall: Shutdown complete.
+[2025.01.31-00.18.30:278][312]LogSlate: Window 'UnrealProjectLab2 - Unreal Editor' being destroyed
+[2025.01.31-00.18.30:536][312]Cmd: QUIT_EDITOR
+[2025.01.31-00.18.30:537][312]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.01.31-00.18.30:550][313]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.01.31-00.18.30:554][313]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.01.31-00.18.30:555][313]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.01.31-00.18.30:576][313]LogWorld: UWorld::CleanupWorld for FirstLevel, bSessionEnded=true, bCleanupResources=true
+[2025.01.31-00.18.30:585][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.31-00.18.30:634][313]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.01.31-00.18.30:646][313]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.01.31-00.18.30:658][313]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.01.31-00.18.30:658][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.31-00.18.30:660][313]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.01.31-00.18.30:662][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.31-00.18.30:664][313]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.01.31-00.18.30:664][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.31-00.18.30:664][313]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.01.31-00.18.30:664][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.31-00.18.30:676][313]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.01.31-00.18.30:690][313]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.01.31-00.18.30:690][313]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.01.31-00.18.30:690][313]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.01.31-00.18.30:700][313]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.01.31-00.18.30:700][313]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.01.31-00.18.30:700][313]LogAudio: Display: Audio Device unregistered from world 'FirstLevel'.
+[2025.01.31-00.18.30:701][313]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.01.31-00.18.30:708][313]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.01.31-00.18.30:728][313]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.01.31-00.18.30:808][313]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.01.31-00.18.30:808][313]LogAudio: Display: Audio Device Manager Shutdown
+[2025.01.31-00.18.30:811][313]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.01.31-00.18.30:821][313]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.01.31-00.18.30:821][313]LogExit: Preparing to exit.
+[2025.01.31-00.18.30:946][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.01.31-00.18.31:980][313]LogEditorDataStorage: Deinitializing
+[2025.01.31-00.18.32:503][313]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.01.31-00.18.32:680][313]LogExit: Editor shut down
+[2025.01.31-00.18.32:722][313]LogExit: Transaction tracking system shut down
+[2025.01.31-00.18.33:459][313]LogExit: Object subsystem successfully closed.
+[2025.01.31-00.18.33:528][313]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.01.31-00.18.34:678][313]LogMemoryProfiler: Shutdown
+[2025.01.31-00.18.34:678][313]LogNetworkingProfiler: Shutdown
+[2025.01.31-00.18.34:678][313]LoadingProfiler: Shutdown
+[2025.01.31-00.18.34:679][313]LogTimingProfiler: Shutdown
+[2025.01.31-00.18.35:743][313]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.01.31-00.18.35:746][313]RenderDocPlugin: plugin has been unloaded.
+[2025.01.31-00.18.35:795][313]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.01.31-00.18.35:796][313]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B529D4247-4F61-9D36-060D-DF84FDD6EA55%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.1-38445549%2B%2B%2BUE5%2BRelease-5.5&UserID=d79af7d34665f42d2bc8edb7e15e24d4%7Ced6e3f1f7f09413fb23d9c711c32d113%7C6e92e629-8616-4b49-97fd-7e5863d3a65a&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.01.31-00.18.36:375][313]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.01.31-00.18.36:393][313]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.01.31-00.18.36:393][313]LogNFORDenoise: NFORDenoise function shutting down
+[2025.01.31-00.18.36:427][313]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.01.31-00.18.36:427][313]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.01.31-00.18.36:428][313]LogPakFile: Destroying PakPlatformFile
+[2025.01.31-00.18.37:514][313]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.01.31-00.18.37:613][313]LogExit: Exiting.
+[2025.01.31-00.18.37:683][313]Log file closed, 01/30/25 19:18:37
